@@ -20,7 +20,7 @@ A Google Gemini API Key
 
 Installation
 bash# Clone the repository
-git clone https://github.com/your-username/study-buddy.git
+git clone https://github.com/kartikeykamal/study-buddy.git
 cd study-buddy
 
 # Install dependencies
